@@ -560,12 +560,12 @@ msgstr "WX-78"
 #. STRINGS.SUNKEN_BOAT_SQUAWKS.1
 msgctxt "STRINGS.SUNKEN_BOAT_SQUAWKS.1"
 msgid "Squaak!"
-msgstr ""
+msgstr "Tsz!"
 
 #. STRINGS.SUNKEN_BOAT_SQUAWKS.2
 msgctxt "STRINGS.SUNKEN_BOAT_SQUAWKS.2"
 msgid "Raaawk!"
-msgstr ""
+msgstr "Szur!"
 
 #. STRINGS.PIG_TALK_PANICFIRE.1
 #, fuzzy
@@ -678,12 +678,12 @@ msgstr "Ogól"
 #. STRINGS.ACTIONS.FISHOCEAN
 msgctxt "STRINGS.ACTIONS.FISHOCEAN"
 msgid "Snag"
-msgstr ""
+msgstr "Ìów"
 
 #. STRINGS.ACTIONS.WHACK
 msgctxt "STRINGS.ACTIONS.WHACK"
 msgid "Whack"
-msgstr ""
+msgstr "Walnij"
 
 #. STRINGS.ACTIONS.DRY
 #, fuzzy
@@ -964,7 +964,7 @@ msgstr "ZEWNÉTRZNY MODUÌ DÒWIÉKU ZAKTUALIZOWANY"
 #. STRINGS.ACTIONS.BURY
 msgctxt "STRINGS.ACTIONS.BURY"
 msgid "Bury"
-msgstr ""
+msgstr "Zakop"
 
 #. STRINGS.ACTIONS.COMBINESTACK
 #, fuzzy
@@ -1227,7 +1227,7 @@ msgstr "Popcorn"
 #. STRINGS.NAMES.DRAGONFLY
 msgctxt "STRINGS.NAMES.DRAGONFLY"
 msgid "Dragonfly"
-msgstr ""
+msgstr "Waàka"
 
 #. STRINGS.NAMES.COMPASS
 #, fuzzy
@@ -1496,7 +1496,7 @@ msgstr "Sadzonka"
 #. STRINGS.NAMES.BEARGER
 msgctxt "STRINGS.NAMES.BEARGER"
 msgid "Bearger"
-msgstr ""
+msgstr "Borsuk"
 
 #. STRINGS.NAMES.DIVININGRODBASE
 #, fuzzy
@@ -1549,7 +1549,7 @@ msgstr "Èwiñski Straànik"
 #. STRINGS.NAMES.GHOST_SAILOR
 msgctxt "STRINGS.NAMES.GHOST_SAILOR"
 msgid "Sailor's Ghost"
-msgstr ""
+msgstr "Duch marynarza"
 
 #. STRINGS.NAMES.MANRABBIT_TAIL
 #, fuzzy
@@ -1560,7 +1560,7 @@ msgstr "Króliczy Kìébek"
 #. STRINGS.NAMES.WEBBER
 msgctxt "STRINGS.NAMES.WEBBER"
 msgid "Webber"
-msgstr ""
+msgstr "Paják"
 
 #. STRINGS.NAMES.GRASS
 #, fuzzy
@@ -1577,7 +1577,7 @@ msgstr "Kupka ziemi"
 #. STRINGS.NAMES.BUZZARD
 msgctxt "STRINGS.NAMES.BUZZARD"
 msgid "Buzzard"
-msgstr ""
+msgstr "Sép"
 
 #. STRINGS.NAMES.FISHINGROD
 #, fuzzy
@@ -1600,7 +1600,7 @@ msgstr "Widìy"
 #. STRINGS.NAMES.EYEBRELLAHAT
 msgctxt "STRINGS.NAMES.EYEBRELLAHAT"
 msgid "Eyebrella"
-msgstr ""
+msgstr "Parasolka z okiem"
 
 #. STRINGS.NAMES.MULTITOOL_AXE_PICKAXE
 #, fuzzy
@@ -1755,7 +1755,7 @@ msgstr "Zielony Grzyb"
 #. STRINGS.NAMES.FLOTSAM
 msgctxt "STRINGS.NAMES.FLOTSAM"
 msgid "Flotsam"
-msgstr ""
+msgstr "Pìywajáce szczátki konstrukcji"
 
 #. STRINGS.NAMES.FLOWER_CAVE_TRIPLE
 #, fuzzy
@@ -1838,12 +1838,12 @@ msgstr "Zìota Ìopata"
 #. STRINGS.NAMES.GLOMMER
 msgctxt "STRINGS.NAMES.GLOMMER"
 msgid "Glommer"
-msgstr ""
+msgstr "Wielooki stwór"
 
 #. STRINGS.NAMES.ROCK_ICE
 msgctxt "STRINGS.NAMES.ROCK_ICE"
 msgid "Mini Glacier"
-msgstr ""
+msgstr "Mini lodowiec"
 
 #. STRINGS.NAMES.WINTEROMETER
 #, fuzzy
@@ -1914,7 +1914,7 @@ msgstr "Stary Dzwon"
 #. STRINGS.NAMES.PENGUIN
 msgctxt "STRINGS.NAMES.PENGUIN"
 msgid "Pengull"
-msgstr ""
+msgstr "Pingwin"
 
 #. STRINGS.NAMES.MANDRAKE
 #, fuzzy
@@ -2159,7 +2159,7 @@ msgstr "Mroczne Pìatki"
 #. STRINGS.NAMES.SUNKEN_BOAT_TRINKET_2
 msgctxt "STRINGS.NAMES.SUNKEN_BOAT_TRINKET_2"
 msgid "Toy Boat"
-msgstr ""
+msgstr "Zabawkowa ìódka"
 
 #. STRINGS.NAMES.ANCIENT_ALTAR_BROKEN
 #, fuzzy
@@ -2236,7 +2236,7 @@ msgstr "Pìomienne Berìo"
 #. STRINGS.NAMES.SUNKEN_BOAT_TRINKET_1
 msgctxt "STRINGS.NAMES.SUNKEN_BOAT_TRINKET_1"
 msgid "Sextant"
-msgstr ""
+msgstr "Sekstans"
 
 #. STRINGS.NAMES.HAMBAT
 #, fuzzy
@@ -2546,7 +2546,7 @@ msgstr "Królik"
 #. STRINGS.NAMES.BIGFOOT
 msgctxt "STRINGS.NAMES.BIGFOOT"
 msgid "Biiigfoot"
-msgstr ""
+msgstr "Wieeelka stopa"
 
 #. STRINGS.NAMES.TRAILMIX
 #, fuzzy
@@ -2809,7 +2809,7 @@ msgstr "Brak"
 #. STRINGS.NAMES.WATERMELON
 msgctxt "STRINGS.NAMES.WATERMELON"
 msgid "Watermelon"
-msgstr ""
+msgstr "Arbuz"
 
 #. STRINGS.NAMES.FRUITMEDLEY
 #, fuzzy
@@ -2850,7 +2850,7 @@ msgstr "Ugotowane Nasiona"
 #. STRINGS.NAMES.LAVASPIT
 msgctxt "STRINGS.NAMES.LAVASPIT"
 msgid "Dragonfly Saliva"
-msgstr ""
+msgstr "Èlina waàki"
 
 #. STRINGS.NAMES.BATCAVE
 #, fuzzy
@@ -3101,12 +3101,12 @@ msgstr "Zatopiona Ìudka"
 #. STRINGS.NAMES.TORNADO
 msgctxt "STRINGS.NAMES.TORNADO"
 msgid "Tornado"
-msgstr ""
+msgstr "Tornado"
 
 #. STRINGS.NAMES.CATCOON
 msgctxt "STRINGS.NAMES.CATCOON"
 msgid "Catcoon"
-msgstr ""
+msgstr "Kotoszop"
 
 #. STRINGS.NAMES.ARMORDRAGONFLY
 msgctxt "STRINGS.NAMES.ARMORDRAGONFLY"
@@ -3128,7 +3128,7 @@ msgstr "Antyczny pomnik"
 #. STRINGS.NAMES.WEBBERSKULL
 msgctxt "STRINGS.NAMES.WEBBERSKULL"
 msgid "Webber's Skull"
-msgstr ""
+msgstr "Czaszka pajáka"
 
 #. STRINGS.NAMES.FLINT
 #, fuzzy
@@ -3139,7 +3139,7 @@ msgstr "Krzemieñ"
 #. STRINGS.NAMES.WARG
 msgctxt "STRINGS.NAMES.WARG"
 msgid "Varg"
-msgstr ""
+msgstr "Wielki pies"
 
 #. STRINGS.NAMES.TELEPORTATO_BOX
 #, fuzzy
