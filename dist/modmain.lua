@@ -35,4 +35,4 @@ function ApplyPolishFontsRewrite()
 	end
 end
 
--- ApplyPolishFontsRewrite()
+ApplyPolishFontsRewrite()
